@@ -1,0 +1,19 @@
+{
+  "name": "mongoose_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.15.0",
+    "cors": "^2.8.5",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^4.4.5"
+  }
+}
